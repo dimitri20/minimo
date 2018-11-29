@@ -1,0 +1,2 @@
+# minimo
+my first website
